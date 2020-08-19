@@ -20,5 +20,5 @@ public class UserController{
 	public String update(){
 		logger.info("경로 : update");
 		return "user/update";
-	}
+	}.
 }
